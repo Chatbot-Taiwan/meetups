@@ -5,3 +5,10 @@ Chatbots meetup 社群台北、台中皆有一個月一次的定期聚會，致�
 歡迎各位報名、推薦講者以及閃電秀，介紹自己開發的 chatbot、 分享 chatbot 相關的議題。
 
 > 更多資訊都收錄在共筆 https://flyis.me/cb
+
+## taipei
+
+>  https://m.me/linnijia
+
+- timeline
+  - [2019](https://github.com/Chatbot-Taiwan/meetups/blob/master/taipei/2019.md)
