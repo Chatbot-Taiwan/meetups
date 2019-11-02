@@ -34,7 +34,7 @@ LINE ID：@fjl8570o
 
 ## Taipei meetup
 
->  聯絡 NiJia https://m.me/linnijia
+>  聯絡 [NiJia](https://m.me/linnijia)
 
 - slides
   - [2019](https://github.com/Chatbot-Taiwan/meetups/blob/master/taipei/2019.md)
