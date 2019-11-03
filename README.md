@@ -38,7 +38,7 @@ LINE ID：@fjl8570o
   > - 土性堅強台中人：[NiJia](https://m.me/linnijia)
   > - [Fly](https://m.me/flyism)
   > - 美食部落客：[Eric](https://m.me/eric0324)
-  > - (13場/月)的小聚王：[小胖]()
+  > - (13場/月)的小聚王：[小胖](https://m.me/supergud.sf)
 
 ### 簡報連結
   - [2019](https://github.com/Chatbot-Taiwan/meetups/blob/master/taipei/2019.md)
