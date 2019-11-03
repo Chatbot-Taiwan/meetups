@@ -34,9 +34,11 @@ LINE ID：@fjl8570o
 
 ## Taipei meetup
 
->  聯絡 [NiJia](https://m.me/linnijia)
+>  有任何問題歡迎聯絡我們
+  > - 土性堅強台中人：[NiJia](https://m.me/linnijia)
+  > - 美食部落客：[Eric](https://m.me/eric0324)
 
-- slides
+- 簡報連結
   - [2019](https://github.com/Chatbot-Taiwan/meetups/blob/master/taipei/2019.md)
 
 ## Taichung meetup
