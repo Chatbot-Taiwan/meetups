@@ -36,9 +36,11 @@ LINE ID：@fjl8570o
 
 >  有任何問題歡迎聯絡我們
   > - 土性堅強台中人：[NiJia](https://m.me/linnijia)
+  > - [Fly](https://m.me/flyism)
   > - 美食部落客：[Eric](https://m.me/eric0324)
+  > - (13場/月)的小聚王：[小胖]()
 
-- 簡報連結
+### 簡報連結
   - [2019](https://github.com/Chatbot-Taiwan/meetups/blob/master/taipei/2019.md)
 
 ## Taichung meetup
