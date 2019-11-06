@@ -44,3 +44,5 @@ LINE ID：@fjl8570o
   - [2019](https://github.com/Chatbot-Taiwan/meetups/blob/master/taipei/2019.md)
 
 ## Taichung meetup
+
+> 整理中...
