@@ -45,4 +45,7 @@ LINE ID：@fjl8570o
 
 ## Taichung meetup
 
-> 整理中...
+> 熱血彰化人: [佳新](https://m.me/jarsing)
+
+### 簡報連結
+  - [2019](https://github.com/Chatbot-Taiwan/meetups/blob/master/taichung/2019.md)
