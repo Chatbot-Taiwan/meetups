@@ -52,3 +52,11 @@ LINE ID：@fjl8570o
 
 ### 簡報連結
   - [2019](https://github.com/Chatbot-Taiwan/meetups/blob/master/taichung/2019.md)
+  
+## 版權許可
+
+採用「保持署名—非商用」創意共享 4.0 許可證。
+
+只要保持原社群名和非商用，您可以自由地閱讀、分享、修改本書。
+
+詳細的法律條文請參見[創意共享](http://creativecommons.org/licenses/by-nc/4.0/)網站。
