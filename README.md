@@ -40,8 +40,8 @@ LINE ID：@fjl8570o
 ## Taipei meetup
 
 >  有任何問題歡迎聯絡我們
-  > - 土性堅強台中人：[NiJia](https://m.me/linnijia)
-  > - [Fly](https://m.me/flyism)
+  > - 熱血台中人：[NiJia](https://m.me/linnijia)
+  > - 遊走世界各地：[Fly](https://m.me/flyism)
   > - 美食部落客：[Eric](https://m.me/eric0324)
   > - (13場/月)的小聚王：[小胖](https://m.me/supergud.sf)
 
