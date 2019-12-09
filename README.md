@@ -47,7 +47,7 @@ LINE ID：@fjl8570o
 
 ### 簡報連結
   - [2019](https://github.com/Chatbot-Taiwan/meetups/blob/master/taipei/2019.md)
-  - ~[2020](https://github.com/Chatbot-Taiwan/meetups/blob/master/taipei/2020.md)~
+  - [2020](https://github.com/Chatbot-Taiwan/meetups/blob/master/taipei/2020.md)
   
 ## 版權許可
 
