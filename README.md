@@ -7,7 +7,7 @@ Chatbot meetup 社群台北、台中皆有一個月一次的定期聚會，致�
 - [臉書社團](https://www.facebook.com/groups/chatbot.tw)
 - [KKTIX](https://chatbots.kktix.cc/)
 - [Facebook Developer Circle: Taipei](https://www.facebook.com/groups/DevCTaipei/)
-- [活動共筆](https://hackmd.io/@chatbot-tw)
+- [活動共筆](https://hackmd.io/@chatbot-tw) (**感謝 HackMD** 支持社群！)
 ---
 
 LINE 開發者官方社群
