@@ -6,8 +6,10 @@ Chatbot meetup 社群台北、台中皆有一個月一次的定期聚會，致�
 
 - [臉書社團](https://www.facebook.com/groups/chatbot.tw)
 - [KKTIX](https://chatbots.kktix.cc/)
+- [LINE Developer Group](https://www.facebook.com/groups/linebot/)
 - [Facebook Developer Circle: Taipei](https://www.facebook.com/groups/DevCTaipei/)
 - [活動共筆](https://hackmd.io/@chatbot-tw) (**感謝 HackMD** 支持社群！)
+
 ---
 
 LINE 開發者官方社群
@@ -39,16 +41,18 @@ LINE ID：@fjl8570o
 
 ## Taipei meetup
 
->  有任何問題歡迎聯絡我們
-  > - 熱血台中人：[NiJia](https://m.me/linnijia)
-  > - 遊走世界各地：[Fly](https://m.me/flyism)
-  > - 美食部落客：[Eric](https://m.me/eric0324)
-  > - (15場/月)的小聚王：[小胖](https://m.me/supergud.sf)
+> 有任何問題歡迎聯絡我們
+>
+> - 熱血負責人：[NiJia](https://m.me/linnijia)
+> - 遊走世界各地：[Fly](https://m.me/flyism)
+> - 美食部落客：[Eric](https://m.me/eric0324)
+> - (15 場/月)的小聚王：[小胖](https://m.me/supergud.sf)
 
 ### 簡報連結
-  - [2019](https://github.com/Chatbot-Taiwan/meetups/blob/master/taipei/2019.md)
-  - [2020](https://github.com/Chatbot-Taiwan/meetups/blob/master/taipei/2020.md)
-  
+
+- [2019](https://github.com/Chatbot-Taiwan/meetups/blob/master/taipei/2019.md)
+- [2020](https://github.com/Chatbot-Taiwan/meetups/blob/master/taipei/2020.md)
+
 ## 版權許可
 
 採用「保持署名—非商用」創意共享 4.0 許可證。
