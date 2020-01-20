@@ -18,7 +18,7 @@ LINE ID：@fjl8570o
 
 加入好友連結：https://line.me/ti/p/%40line_tw_dev
 
-<img height="200" border="0" alt="QRcode" src="http://qr-official.line.me/L/9AirZgJAgb.png">
+![](http://qr-official.line.me/L/9AirZgJAgb.png)
 
 
 ## 更多資訊都收錄在共筆 https://hackmd.io/@chatbot-tw
