@@ -18,9 +18,10 @@ LINE ID：@fjl8570o
 
 加入好友連結：https://line.me/ti/p/%40line_tw_dev
 
-行動條碼：http://qr-official.line.me/L/9AirZgJAgb.png
+<img height="200" border="0" alt="QRcode" src="http://qr-official.line.me/L/9AirZgJAgb.png">
 
-> 更多資訊都收錄在共筆 https://flyis.me/cb
+
+## 更多資訊都收錄在共筆 https://hackmd.io/@chatbot-tw
 
 ## Call for Speakers 徵求講者
 
@@ -43,7 +44,7 @@ LINE ID：@fjl8570o
 
 > 有任何問題歡迎聯絡我們
 >
-> - 熱血負責人：[NiJia](https://m.me/linnijia)
+> - 熱血台中仔：[NiJia](https://m.me/linnijia)
 > - 遊走世界各地：[Fly](https://m.me/flyism)
 > - 美食部落客：[Eric](https://m.me/eric0324)
 > - (15 場/月)的小聚王：[小胖](https://m.me/supergud.sf)
