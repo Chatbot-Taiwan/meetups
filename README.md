@@ -32,7 +32,7 @@ LINE ID：@fjl8570o
 
 講題需至少包含以下 1 項：
 
-- 通訊軟體或平台相關技術 (e.g. Facebook Messenger API 技巧)
+- 通訊軟體或平台相關技術 (e.g. LINE Bot, Messenger API 技巧)
 - 特定主題 Chatbot 開發經驗
 - 特定程式語言開發經驗
 - 使用 Framework / Builder 開發經驗
@@ -41,14 +41,16 @@ LINE ID：@fjl8570o
 - 相關產業技術 (e.g. Framework、Builder、Analytics、Marketing)
 - 其他 Conversational 應用
 
-## 🎖 Taipei meetup members
+## 🎖 Meetup members
 
 > 有任何問題歡迎聯絡我們
->
-> - 熱血台中仔：[NiJia](https://m.me/linnijia)
-> - 遊走世界各地：[Fly](https://m.me/flyism)
+
+> - 農場管理員：[NiJia Lin](https://m.me/linnijia)
 > - 美食部落客：[Eric](https://m.me/eric0324)
 > - (15 場/月)的小聚王：[小胖](https://m.me/supergud.sf)
+> - 彰化奇步老爹：[佳新](https://m.me/jarsing)
+> - 遊走世界各地：[Fly](https://m.me/flyism)
+
 
 ### 🗓 活動資訊連結
 
