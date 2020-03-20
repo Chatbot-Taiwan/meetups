@@ -1,4 +1,4 @@
-# 🇹🇼Chatbot Taiwan
+# Chatbot Developer Taiwan 🇹🇼
 
 > 目前因疫情關係小聚時間會有所更動
 
