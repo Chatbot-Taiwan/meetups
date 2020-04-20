@@ -1,4 +1,6 @@
-# Chatbot Taiwan 🇹🇼
+# Chatbot Developer Taiwan 🇹🇼
+
+> 目前因疫情關係小聚時間會有所更動
 
 Chatbot meetup 社群台北、台中皆有一個月一次的定期聚會，致力於提供並討論聊天機器人的相關應用，每回小聚將安排講者主題分享、新知討論，環繞 Chatbot 與 AI，及大家共同關心的話題。歡迎大家踴躍分享、自由與會眾交流，同時也期望大家可以在分享中得到收獲。
 
@@ -20,9 +22,9 @@ LINE ID：@fjl8570o
 
 ![](https://qr-official.line.me/L/9AirZgJAgb.png)
 
-## 更多資訊都收錄在共筆 https://hackmd.io/@chatbot-tw
+## ✏️ 更多資訊都收錄在共筆 https://hackmd.io/@chatbot-tw
 
-## Call for Speakers 徵求講者
+## 🙏 Call for Speakers 徵求講者
 
 持續徵求講者中！
 
@@ -30,7 +32,7 @@ LINE ID：@fjl8570o
 
 講題需至少包含以下 1 項：
 
-- 通訊軟體或平台相關技術 (e.g. Facebook Messenger API 技巧)
+- 通訊軟體或平台相關技術 (e.g. LINE Bot, Messenger API 技巧)
 - 特定主題 Chatbot 開發經驗
 - 特定程式語言開發經驗
 - 使用 Framework / Builder 開發經驗
@@ -39,21 +41,23 @@ LINE ID：@fjl8570o
 - 相關產業技術 (e.g. Framework、Builder、Analytics、Marketing)
 - 其他 Conversational 應用
 
-## Taipei meetup
+## 🎖 Meetup members
 
 > 有任何問題歡迎聯絡我們
->
-> - 熱血台中仔：[NiJia](https://m.me/linnijia)
-> - 遊走世界各地：[Fly](https://m.me/flyism)
+
+> - 農場管理員：[NiJia Lin](https://m.me/linnijia)
 > - 美食部落客：[Eric](https://m.me/eric0324)
 > - (15 場/月)的小聚王：[小胖](https://m.me/supergud.sf)
+> - 彰化奇步老爹：[佳新](https://m.me/jarsing)
+> - 遊走世界各地：[Fly](https://m.me/flyism)
 
-### 簡報連結
+
+### 🗓 活動資訊連結
 
 - [2019](https://github.com/Chatbot-Taiwan/meetups/blob/master/taipei/2019.md)
 - [2020](https://github.com/Chatbot-Taiwan/meetups/blob/master/taipei/2020.md)
 
-## 版權許可
+## ✍️ 版權許可
 
 採用「保持署名—非商用」創意共享 4.0 許可證。
 
