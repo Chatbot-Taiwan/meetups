@@ -32,12 +32,10 @@ LINE ID：@fjl8570o
 
 講題需至少包含以下 1 項：
 
-- 通訊軟體或平台相關技術 (e.g. LINE Bot, Messenger API 技巧)
-- 特定主題 Chatbot 開發經驗
-- 特定程式語言開發經驗
-- 使用 Framework / Builder 開發經驗
+- 通訊軟體或平台相關技術 (e.g. LINE Bot、Messenger API、Telegram)
+- 特定主題程式語言開發 Chatbot 經驗
 - ChatOps
-- 應用語意分析、機器學習、人工智慧於 Chatbot 開發
+- 應用語意分析、機器學習、人工智慧於 Chatbot
 - 相關產業技術 (e.g. Framework、Builder、Analytics、Marketing)
 - 其他 Conversational 應用
 
