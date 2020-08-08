@@ -43,7 +43,6 @@ LINE ID：@fjl8570o
 
 > 有任何問題歡迎聯絡我們或寄信至 `chatbot.taiwan@gmail.com`
 
-> - 農場管理員：[NiJia Lin](https://m.me/linnijia)
 > - 美食部落客：[Eric](https://m.me/eric0324)
 > - (15 場/月)的小聚王：[小胖](https://m.me/supergud.sf)
 > - 彰化奇步老爹：[佳新](https://m.me/jarsing)
